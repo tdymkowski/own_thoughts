@@ -1,2 +1,2 @@
 # own_thoughts
-My own projects, made in my programming learing process.
+My own projects, made during my programming learning process.
